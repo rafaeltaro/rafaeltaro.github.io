@@ -51,7 +51,7 @@ img {
 	background: linear-gradient(45deg, rgba(94,206,127,.6), rgba(57,173,209,.6)), url('../img/bg.jpg');
 
 	background-size: cover;
-	padding: 3.2em 0;
+	padding: 2em 0;
 	margin-bottom: 3em;
 	text-shadow: 0 2px rgba(0,0,0,.35);
 }
